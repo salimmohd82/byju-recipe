@@ -2,6 +2,7 @@
   "name": "byju",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://salimmohd82.github.io/byju-recipe",
   "dependencies": {
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
