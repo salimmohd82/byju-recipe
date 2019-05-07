@@ -1,6 +1,6 @@
 import React, {Component} from "react";
 import "./App.css";
-import {BrowserRouter as Router, Route} from 'react-router-dom';
+import {BrowserRouter as Router, HashRouter, Route} from 'react-router-dom';
 
 import HeaderContainer from "./containers/HeaderContainer";
 import RecipeListContainer from "./containers/RecipeListContainer";
@@ -17,7 +17,7 @@ class App extends Component {
     return (
       <div className="App" id="App">
         <main>
-          <Router>
+          <HashRouter basename='/'>
             <HeaderContainer />
             <Route exact path="/" component={RecipeListContainer} />
             <Route path="/detail" component={RecipeDetailContainer} />
@@ -26,7 +26,7 @@ class App extends Component {
             <Route path="/add" component={AddItemContainer} />
             <Route path="/update" component={EditItemContainer} />
             <Route path="/profile" component={Profile} />
-          </Router>
+          </HashRouter>
         </main>
       </div>
     );
