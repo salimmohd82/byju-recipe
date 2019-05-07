@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4e3c43df190486ac79801fef50403e08",
+    "revision": "a96c2c895fe97723e58fc8cbda750d5b",
     "url": "/byju-recipe/index.html"
   },
   {
-    "revision": "578922d36178d7d1ace6",
+    "revision": "2c945ee33f194065be87",
     "url": "/byju-recipe/static/css/main.9285d2db.chunk.css"
   },
   {
-    "revision": "3fd529b43ffab1b2de88",
-    "url": "/byju-recipe/static/js/2.1a112f09.chunk.js"
+    "revision": "462ee4d8d17ab0565536",
+    "url": "/byju-recipe/static/js/2.cd6a5c7d.chunk.js"
   },
   {
-    "revision": "578922d36178d7d1ace6",
-    "url": "/byju-recipe/static/js/main.a776f866.chunk.js"
+    "revision": "2c945ee33f194065be87",
+    "url": "/byju-recipe/static/js/main.5e3ba7e7.chunk.js"
   },
   {
     "revision": "a1d3fb97fda56ce0c47a",
