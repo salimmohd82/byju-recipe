@@ -98,7 +98,7 @@ class Add extends Component {
                 />
               </div>
               <div className="col-md-10 offset-md-1 pd-10">
-                <textarea name="desc" className="md-textarea form-control description-text" rows="3" value={this.state.desc} onChange={this.handleDescChange}></textarea>
+                <textarea name="desc" className="md-textarea form-control" rows="3" value={this.state.desc} onChange={this.handleDescChange}></textarea>
               </div>
               <div className="col-md-10 offset-md-1 pd-10">
                 <button className="btn btn-outline-primary" type="submit">
