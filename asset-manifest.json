@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/byju-recipe/static/css/main.9285d2db.chunk.css",
-    "main.js": "/byju-recipe/static/js/main.bbb8346c.chunk.js",
-    "main.js.map": "/byju-recipe/static/js/main.bbb8346c.chunk.js.map",
+    "main.css": "/byju-recipe/static/css/main.009db04f.chunk.css",
+    "main.js": "/byju-recipe/static/js/main.6457e940.chunk.js",
+    "main.js.map": "/byju-recipe/static/js/main.6457e940.chunk.js.map",
     "runtime~main.js": "/byju-recipe/static/js/runtime~main.992a33da.js",
     "runtime~main.js.map": "/byju-recipe/static/js/runtime~main.992a33da.js.map",
     "static/js/2.cd6a5c7d.chunk.js": "/byju-recipe/static/js/2.cd6a5c7d.chunk.js",
     "static/js/2.cd6a5c7d.chunk.js.map": "/byju-recipe/static/js/2.cd6a5c7d.chunk.js.map",
     "index.html": "/byju-recipe/index.html",
-    "precache-manifest.6d812e69cf8f055710a9b5cef3434a10.js": "/byju-recipe/precache-manifest.6d812e69cf8f055710a9b5cef3434a10.js",
+    "precache-manifest.a263b963e52d7db3102ba4f87175a586.js": "/byju-recipe/precache-manifest.a263b963e52d7db3102ba4f87175a586.js",
     "service-worker.js": "/byju-recipe/service-worker.js",
-    "static/css/main.9285d2db.chunk.css.map": "/byju-recipe/static/css/main.9285d2db.chunk.css.map"
+    "static/css/main.009db04f.chunk.css.map": "/byju-recipe/static/css/main.009db04f.chunk.css.map"
   }
 }
